@@ -1,0 +1,15 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [PCB_RPi_LoRa-Module.PrjPcb]
+   Generated File[PCB2.GBL]
+   Generated File[PCB2.GTO]
+   Generated File[PCB2.GM3]
+   Generated File[PCB2.RUL]
+   Generated File[PCB2.EXTREP]
+   Generated File[PCB2.REP]
+
+
+Files Generated   : 6
+Documents Printed : 0
+
+Finished Output Generation At 15:16:18 On 23.12.2016

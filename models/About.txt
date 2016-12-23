@@ -1,0 +1,1 @@
+Here you can find 3D models of case parts used in our Raspberry Pi based linux node prototype.
